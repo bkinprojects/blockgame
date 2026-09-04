@@ -14,4 +14,6 @@ if you need the website link thingy for school or whatever here it is ↓
 
 https://bkinprojects.github.io/blockgame/
 
+(middle click this link [↑] if you want it to open in a new tab)
+
 also mb for the bad name I dont wanna use "tetris"
