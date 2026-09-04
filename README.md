@@ -9,3 +9,12 @@ Features:
 6. a bunch of small stuff
 
 have fun
+
+if you need the website link thingy for school or whatever here it is ↓
+https://bkinprojects.github.io/blockgame/
+https://bkinprojects.github.io/blockgame/
+https://bkinprojects.github.io/blockgame/
+https://bkinprojects.github.io/blockgame/
+https://bkinprojects.github.io/blockgame/
+
+also mb for the bad name I dont wanna use "tetris"
